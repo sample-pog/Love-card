@@ -126,8 +126,8 @@ html_code = """
 
             <div class="bg-white rounded-3xl shadow-2xl p-8 w-full max-w-[340px]">
                 <div class="text-center mb-8">
-                    <h1 class="title-font text-4xl text-pink-600">To: <span id="her-name">Her Name</span> ❤️</h1>
-                    <p class="text-pink-400 mt-1">From Max • April 2026</p>
+                    <h1 class="title-font text-4xl text-pink-600">To: <span id="Sneha">Sneha</span> ❤️</h1>
+                    <p class="text-pink-400 mt-1">From Naitik • April 2026</p>
                 </div>
 
                 <div class="swiper mySwiper" id="swiper">
